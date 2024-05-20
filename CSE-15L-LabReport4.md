@@ -21,30 +21,27 @@ The `git clone git@github.com:njpetersen/lab7.git` command was seven up in the s
 
 ![Image](step6.jpg)
 
-Keys Pressed: `<up><up><up><up><up><enter>`,`cd lab7``<enter>`,`<up><up><enter>`
+Keys Pressed: `<up><up><up><up><up><enter>`,`cd lab7` `<enter>`,`<up><up><enter>`
 
-The `bash test.sh command` command was five up in the search history, so I pressed the up arrow five times to access it. I then ran the command with the enter key, but I was in the wrong directory, so the command returned an error. To fix this, I typed in the command `cd lab7` 
+The `bash test.sh` command was five up in the search history, so I pressed the up arrow five times to access it. I then ran the command with the enter key, but I was in the wrong directory, so the command returned an error. To fix this, I typed in the command `cd lab7` and ran it with the enter key, switching my active working directory to lab7. This meant the `bash test.sh` command was not two up in the search history, so I pressed the up arrow two times to access it once again. I then ran the command with the enter key, which ran a bash script that in turn ran two Junit tests, one of which failed.
 
-
-up 5 for failure, up 2 for success, cd was typed out
-
-## Step 7:
+## Step 7: Edit the code to fix the failing test
 
 ![Image](step7.jpg)
 
-9 ups to run command
+Keys Pressed: `<up><up><up><up><up><up><up><up><up><enter>`,`/cha <enter>`,`<down><right><right><r2><:wq><enter>`
 
-/cha to find lines of cofe to change, then down right right <r2>
+The `vim ListExamples.java` command was nine up in the search history, so I pressed the up arrow nine times to access it. I then ran the command with the enter key, opening up the file `ListExamples.java` in Vim. Once in Vim, I searched for the key phrase `cha` using the command `/cha` and then pressing the enter key. I then pressed the down key once and then the right key twice in order to position my cursor over the single character that needed to be changed. I then pressed the r key to tell Vim to replace the character 1, and then the 2 key to actually replace the character. I then typed and ran the command `:wq` with the enter key to exit Vim.
 
-escape key, :wq, enter
-
-## Step 8:
+## Step 8: Demonstrate that the Juint tests now pass
 
 ![Image](step8.jpg)
 
+
+
 up 2 for command enter
 
-## Step 9:
+## Step 9: Commit and Push changes to my Github account
 
 ![Image](step9.jpg)
 
