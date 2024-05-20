@@ -1,13 +1,13 @@
+#Lab Report 4
+Hello, my name is Nathaniel Jay Petersen, PID: A17832207 and this b
 
-
-
-Step 4: Log into ieng6
+## Step 4: Log into ieng6
 
 ![Image](step4.jpg)
 
 Keys Pressed: <up> <enter>
 
-Step 5: Clone the github repo
+## Step 5: Clone the github repo
 
 ![Image](step5.jpg)
 
@@ -15,13 +15,13 @@ Keys Pressed: <up><up><up><up><up><up><up> <enter>
 
 after password query: input my password
 
-Step 6:
+## Step 6:
 
 ![Image](step6.jpg)
 
 up 5 for failure, up 2 for success, cd was typed out
 
-Step 7:
+## Step 7:
 
 ![Image](step7.jpg)
 
@@ -31,13 +31,13 @@ Step 7:
 
 escape key, :wq, enter
 
-Step 8:
+## Step 8:
 
 ![Image](step8.jpg)
 
 up 2 for command enter
 
-Step 9:
+## Step 9:
 
 ![Image](step9.jpg)
 
