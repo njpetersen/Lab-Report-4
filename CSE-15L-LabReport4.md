@@ -45,16 +45,6 @@ The `bash test.sh` command was two up in the search history, so I pressed the up
 
 ![Image](step9.jpg)
 
-Keys Pressed: `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`,`i <down><down><down><down><down><down><down><down><down><down><down><enter> Generic Commit Message <esc> :wq`,`<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter`
+Keys Pressed: `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`,`i <down><down><down><down><down><down><down><down><down><down><down><enter> Generic Commit Message <esc> :wq`,`<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter` (also my password)
 
-The `git commit ListExamples.java `
-
-In vim, press i, down 11, enter, write "Generic Commit Message", esc, :wq
-
-up 15 for git push
-
-
-
-
-
-
+The `git commit ListExamples.java` command was fifteen up in the search history, so I pressed the up arrow fifteen times to access it. I then ran the command with the enter key, which opened Vim and asked for a commit message. I pressed i to enter insert mode, pressed the down key 11 times, pressed enter to create a new line and wrote "Generic Commit Message" as the commit message for the changes make to `ListExamples.java`. I then pressed the escape key to exit insert mode, and typed the `:wq` command to save my commit message and exit Vim. After this I still needed to push the changes I commited to github. The `git push` command was fifteen up in the search history, so I pressed the up arrow fifteen times to access it. I then ran the command with the enter key, which prompted me to enter my password. After providing my password, the command continued running, pushing my commit to Github.
