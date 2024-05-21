@@ -1,4 +1,3 @@
-# Lab Report 4
 Hello, my name is Nathaniel Jay Petersen, PID: A17832207 and this page will reproduce steps 4-9 of the Vim practice task from lab 7.
 
 ## Step 4: Log into ieng6
