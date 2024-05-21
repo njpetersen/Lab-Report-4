@@ -31,19 +31,23 @@ The `bash test.sh` command was five up in the search history, so I pressed the u
 
 Keys Pressed: `<up><up><up><up><up><up><up><up><up><enter>`,`/cha <enter>`,`<down><right><right><r2><:wq><enter>`
 
-The `vim ListExamples.java` command was nine up in the search history, so I pressed the up arrow nine times to access it. I then ran the command with the enter key, opening up the file `ListExamples.java` in Vim. Once in Vim, I searched for the key phrase `cha` using the command `/cha` and then pressing the enter key. I then pressed the down key once and then the right key twice in order to position my cursor over the single character that needed to be changed. I then pressed the r key to tell Vim to replace the character 1, and then the 2 key to actually replace the character. I then typed and ran the command `:wq` with the enter key to exit Vim.
+The `vim ListExamples.java` command was nine up in the search history, so I pressed the up arrow nine times to access it. I then ran the command with the enter key, opening up the file `ListExamples.java` in Vim. Once in Vim, I searched for the key phrase `cha` using the command `/cha` and then pressing the enter key. I then pressed the down key once and then the right key twice in order to position my cursor over the single character that needed to be changed. I then pressed the r key to tell Vim to replace the character 1, and then the 2 key to actually replace the character with 2. I then typed and ran the command `:wq` with the enter key to exit Vim and save my changes.
 
 ## Step 8: Demonstrate that the Juint tests now pass
 
 ![Image](step8.jpg)
 
+Keys Pressed: `<up><up><enter>`
 
-
-up 2 for command enter
+The `bash test.sh` command was two up in the search history, so I pressed the up arrow two times to access it. I then ran the command with the enter key, which ran a bash script which in turn ran the same two Junit tests from before, both of which passed, confirming the change made to the `ListExamples.java` file fixed the error.
 
 ## Step 9: Commit and Push changes to my Github account
 
 ![Image](step9.jpg)
+
+Keys Pressed: `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`,`i <down><down><down><down><down><down><down><down><down><down><down><enter> Generic Commit Message <esc> :wq`,`<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter`
+
+The `git commit ListExamples.java `
 
 In vim, press i, down 11, enter, write "Generic Commit Message", esc, :wq
 
